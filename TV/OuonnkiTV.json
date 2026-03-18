@@ -1,1 +1,72 @@
-
+[
+  {
+    "id": "lziapi",
+    "name": "小飞|量子资源",
+    "url": "https://cj.lziapi.com/api.php/provide/vod/",
+    "detailUrl": "https://cj.lziapi.com",
+    "isEnabled": true
+  },
+  {
+    "id": "360zy",
+    "name": "小飞|360资源",
+    "url": "https://360zy.com/api.php/provide/vod",
+    "detailUrl": "https://360zy.com",
+    "isEnabled": true
+  },
+  {
+    "id": "ukuapi",
+    "name": "小飞|U酷资源",
+    "url": "https://api.ukuapi.com/api.php/provide/vod",
+    "detailUrl": "https://api.ukuapi.com",
+    "isEnabled": true
+  },
+  {
+    "id": "ikunzy",
+    "name": "小飞|ikun资源",
+    "url": "https://ikunzyapi.com/api.php/provide/vod",
+    "detailUrl": "https://ikunzyapi.com",
+    "isEnabled": true
+  },
+  {
+    "id": "wujinapi_cc",
+    "name": "小飞|无尽资源",
+    "url": "https://api.wujinapi.cc/api.php/provide/vod",
+    "detailUrl": "https://api.wujinapi.cc",
+    "isEnabled": true
+  },
+  {
+    "id": "guangsuapi",
+    "name": "小飞|光速资源",
+    "url": "https://api.guangsuapi.com/api.php/provide/vod",
+    "detailUrl": "https://api.guangsuapi.com",
+    "isEnabled": true
+  },
+  {
+    "id": "wolongzyw_com",
+    "name": "小飞|卧龙资源",
+    "url": "https://wolongzyw.com/api.php/provide/vod",
+    "detailUrl": "https://wolongzyw.com",
+    "isEnabled": true
+  },
+  {
+    "id": "tyyszy",
+    "name": "小飞|天涯资源",
+    "url": "https://tyyszy.com/api.php/provide/vod",
+    "detailUrl": "https://tyyszy.com",
+    "isEnabled": true
+  },
+  {
+    "id": "rycjapi",
+    "name": "小飞|如意资源",
+    "url": "https://cj.rycjapi.com/api.php/provide/vod",
+    "detailUrl": "https://cj.rycjapi.com",
+    "isEnabled": true
+  },
+  {
+    "id": "xiaomaomi",
+    "name": "小飞|小猫咪资源",
+    "url": "https://zy.xmm.hk/api.php/provide/vod",
+    "detailUrl": "https://zy.xmm.hk",
+    "isEnabled": true
+  }
+]
