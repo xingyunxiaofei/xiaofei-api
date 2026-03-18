@@ -504,13 +504,6 @@
     "isEnabled": true
   },
   {
-    "id": "leba",
-    "name": "小飞|乐播资源",
-    "url": "https://lbapi9.com/api.php/provide/vod",
-    "detailUrl": "https://lbapi9.com",
-    "isEnabled": true
-  },
-  {
     "id": "jianan",
     "name": "小飞|建安资源",
     "url": "http://154.219.117.232:9981/jacloudapi.php/provide/vod",
