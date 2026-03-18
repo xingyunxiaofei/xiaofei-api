@@ -361,11 +361,6 @@
       "name": "小飞|最大点播",
       "detail": "http://zuidazy.me"
     },
-    "leba": {
-      "api": "https://lbapi9.com/api.php/provide/vod",
-      "name": "小飞|乐播资源",
-      "detail": "https://lbapi9.com"
-    },
     "jianan": {
       "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod",
       "name": "小飞|建安资源",
