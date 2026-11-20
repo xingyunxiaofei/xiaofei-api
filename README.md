@@ -73,6 +73,11 @@ https://gh-proxy.com/https://github.com/xingyunxiaofei/xiaofei-api/raw/refs/head
 https://gh-proxy.com/https://github.com/xingyunxiaofei/xiaofei-api/raw/refs/heads/main/lx-music/%E9%9D%9E%E5%B8%B8%E5%88%80.js
 ```
 ## tvbox
+1. tvbox分享网站
+**下面是一些tvbox源的项目或者发布网站非源,请注意**
+https://tv.%E6%B1%9F%E6%B1%9F.com/
+https://xiaofei.men/#tvbox
+2. 直播源
 ## github-CDN
 1. https://gh-proxy.org/
 2. https://ghproxy.vip/
