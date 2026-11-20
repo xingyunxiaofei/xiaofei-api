@@ -82,8 +82,8 @@ https://gh-proxy.com/https://github.com/xingyunxiaofei/xiaofei-api/raw/refs/head
 |[https://xiaofei.men/](https://xiaofei.men/#tvbox)|聚合源+单仓源|
 2. 直播源
 点播源项目
-[suxuang/myIPTV](https://github.com/suxuang/myIPTV)
-[vbskycn/iptv](https://github.com/vbskycn/iptv)
+1. [suxuang/myIPTV](https://github.com/suxuang/myIPTV)
+2. [vbskycn/iptv](https://github.com/vbskycn/iptv)
 ## github-CDN
 1. https://gh-proxy.org/
 2. https://ghproxy.vip/
