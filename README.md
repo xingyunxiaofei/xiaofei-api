@@ -74,11 +74,8 @@ https://gh-proxy.com/https://github.com/xingyunxiaofei/xiaofei-api/raw/refs/head
 ```
 ## tvbox
 1. tvbox分享网站
-
-**下面是一些tvbox源的项目或者发布网站非源,请注意**
---------------------
+下面是一些tvbox源的项目或者发布网站非源,请注意
 https://tv.%E6%B1%9F%E6%B1%9F.com/
-----------------------
 https://xiaofei.men/#tvbox
 2. 直播源
 ## github-CDN
