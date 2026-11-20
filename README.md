@@ -87,6 +87,12 @@ https://github.com/suxuang/myIPTV
   
 https://github.com/vbskycn/iptv
 
+https://github.com/zhi35/iptv
+
+https://github.com/cs3306/IPTV-Sources
+
+https://github.com/joevess/IPTV
+
 ## github-CDN
 1. https://gh-proxy.org/
 2. https://ghproxy.vip/
