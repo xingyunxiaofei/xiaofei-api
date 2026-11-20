@@ -79,7 +79,7 @@ https://gh-proxy.com/https://github.com/xingyunxiaofei/xiaofei-api/raw/refs/head
 | 网站 | 注意 |
 |-----|-----|
 |tv.江江.com|[https://tv.%E6%B1%9F%E6%B1%9F.com/](https://tv.%E6%B1%9F%E6%B1%9F.com/)|源需自测|
-|xiaofei.men|[[xiaofei.men](https://xiaofei.men/#tvbox)](https://xiaofei.men/#tvbox)|聚合源+单仓源|
+|xiaofei.men|[https://xiaofei.men/#tvbox](https://xiaofei.men/#tvbox)|聚合源+单仓源|
 2. 直播源
 ## github-CDN
 1. https://gh-proxy.org/
