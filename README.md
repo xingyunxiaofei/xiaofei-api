@@ -1,8 +1,7 @@
 # API总目录
-|目录跳转|目录跳转|
-|-------|-------|
-|[lx-music](#lx-music)|[tvbox](#tvbox)|
-|[github CDN](#github-CDN)|  |
+|目录跳转|目录跳转|目录跳转|
+|-------|-------|-------|
+|[lx-music](#lx-music)|[tvbox](#tvbox)|[github CDN](#github-CDN)|
 ## lx-music
 音源在 **lx-music** 文件夹
 数据来源[pdone/lx-music-source](https://github.com/pdone/lx-music-source)
