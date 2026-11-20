@@ -1,4 +1,7 @@
 # API总目录
+[lx-music](##lx-music)
+[tvbox](##tvbox)
+[github CDN](##github-CDN)
 ## lx-music
 音源在 **lx-music** 文件夹
 数据来源[pdone/lx-music-source](https://github.com/pdone/lx-music-source)
@@ -68,6 +71,6 @@ https://gh-proxy.com/https://github.com/xingyunxiaofei/xiaofei-api/raw/refs/head
 https://gh-proxy.com/https://github.com/xingyunxiaofei/xiaofei-api/raw/refs/heads/main/lx-music/%E9%9D%9E%E5%B8%B8%E5%88%80.js
 ```
 ## tvbox
-## github CDN
+## github-CDN
 1. https://gh-proxy.org/
 2. https://ghproxy.vip/
