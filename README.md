@@ -2,6 +2,7 @@
 ## lx-music
 音源在 **lx-music** 文件夹
 数据来源[pdone/lx-music-source](https://github.com/pdone/lx-music-source)
+- 注意!!这个是在线音源
 1. Fish-music
 ```txt
 https://gh-proxy.com/https://github.com/xingyunxiaofei/xiaofei-api/raw/refs/heads/main/lx-music/Fish-music.js
