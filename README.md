@@ -81,7 +81,7 @@ https://xiaofei.men/#tvbox
 
 2. 直播源
 
-下面是一些更新比较频繁的点播源项目
+下面是一些更新比较频繁的直播源项目
   
 https://github.com/suxuang/myIPTV
   
